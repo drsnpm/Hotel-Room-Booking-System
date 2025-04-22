@@ -1,21 +1,32 @@
-# Hotel Room Booking System
+# 🏨 Hotel Room Booking System
 
-## 🏨 Overview
-The **Hotel Room Booking System** is a full-stack web application that allows users to browse available hotel rooms, make bookings, view their current and past reservations, and cancel them if needed. Administrators can manage room inventory, update room details, and control all bookings via a dedicated admin panel.
+## Overview
+The **Hotel Room Booking System** is a full-stack web application that allows users to:
+- Browse available hotel rooms
+- Make bookings
+- View current and past reservations
+- Cancel bookings
+
+Administrators can:
+- Manage room inventory
+- Update room details
+- Control all bookings via a dedicated admin panel
 
 ---
 
 ## 🛠️ Tools Used
-- IntelliJ IDEA / Eclipse
-- MySQL Workbench
-- Spring Boot
-- React.js
-- Axios
+
+- IntelliJ IDEA / Eclipse  
+- MySQL Workbench  
+- Spring Boot  
+- React.js  
+- Axios  
 - Bootstrap / Material UI (for styling)
 
 ---
 
 ## 💻 Tech Stack
+
 - **Frontend**: React.js, HTML, CSS, JavaScript  
 - **Backend**: Spring Boot (Java), Spring Data JPA, REST APIs  
 - **Database**: MySQL  
@@ -26,25 +37,29 @@ The **Hotel Room Booking System** is a full-stack web application that allows us
 ## 🚀 Installation
 
 ### ✅ Prerequisites
-Make sure the following are installed:
-- [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
-- [Node.js and npm](https://nodejs.org/)
-- [Spring Boot CLI or an IDE like IntelliJ IDEA / Eclipse](https://spring.io/tools)
-- [MySQL](https://www.mysql.com/)
+
+Ensure the following are installed:
+
+- [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html)  
+- [Node.js and npm](https://nodejs.org/)  
+- [Spring Boot CLI](https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started.html#getting-started-installing-the-cli) or an IDE like IntelliJ IDEA / Eclipse  
+- [MySQL](https://www.mysql.com/)  
 - [Postman](https://www.postman.com/) *(optional, for API testing)*
+
+---
 
 ## ⚙️ Project Setup
 
-#### 1. Clone the Repository
+### 1. Clone the Repository
+
 ```bash
 git clone https://github.com/drsnpm/hotel-room-booking-system.git
 ```
 
 ### 2. 📂 Frontend Setup
-
 1. Navigate to the frontend directory:
    ```bash
-   cd frontend/Hotel-booking-application
+      cd frontend/Hotel-booking-application
    ````
 
 2. Install the dependencies:
