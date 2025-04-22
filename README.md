@@ -36,6 +36,7 @@ Make sure you have the following software installed:
 git clone https://github.com/drsnpm/hotel-room-booking-system.git
 
 
+
 ### Features for User
 1. **User Registration** – New users can sign up with valid credentials and email verification for added security.
 2. **User Login & Authentication** – Secure login system with username/email and password for authenticated access.
