@@ -33,13 +33,55 @@ Make sure the following are installed:
 - [MySQL](https://www.mysql.com/)
 - [Postman](https://www.postman.com/) *(optional, for API testing)*
 
-### 📦 Steps
+## ⚙️ Project Setup
 
 #### 1. Clone the Repository
 ```bash
 git clone https://github.com/drsnpm/hotel-room-booking-system.git
 ```
 
+### 2. 📂 Frontend Setup
+
+1. Navigate to the frontend directory:
+   ```bash
+   cd frontend/Hotel-booking-application
+   ````
+
+2. Install the dependencies:
+```bash
+  npm install
+````
+
+3. Start the development server
+```bash
+  npm run dev
+```
+
+### 3. 🖥️ Backend Setup
+1. Navigate to the backend directory
+```bash
+  cd backend/HotelBookingApplication
+```
+2. Configure the database connection in
+```bash
+  src/main/resources/application.properties
+```
+3. Update the following properties with your local MySQL credentials
+```bash
+  spring.datasource.url=jdbc:mysql://localhost:3306/hotel_booking
+spring.datasource.username=your_username
+spring.datasource.password=your_password
+spring.jpa.hibernate.ddl-auto=update
+````
+
+4. Run the Spring Boot application using your IDE (IntelliJ/Eclipse) or via terminal
+```bash
+./mvnw spring-boot:run
+```
+or
+```bash
+  mvn spring-boot:run
+```
 
 ### Features for User
 1. **User Registration** – New users can sign up with valid credentials and email verification for added security.
