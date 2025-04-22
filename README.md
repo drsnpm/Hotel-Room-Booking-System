@@ -119,3 +119,15 @@ or
 
 ### User Profile Page
 ![Image](https://github.com/user-attachments/assets/f3b9db60-c11c-4c9a-8af7-a7afd8ee77f9)
+
+### Admin Manage Room Page
+![Image](https://github.com/user-attachments/assets/d82590b4-4781-41f4-b4be-61798ed6a18f)
+
+### Admin Add Room Page
+![Image](https://github.com/user-attachments/assets/912f7943-2da7-43f7-82c1-6be43594e7c6)
+
+### Admin Manage Bookings Page
+![Image](https://github.com/user-attachments/assets/ccdbc396-098c-47f3-b962-822cc351d3b1)
+
+### Admin Profile Page
+![Image](https://github.com/user-attachments/assets/618ce3a6-9ed3-4c97-b316-a0463f4828f5)
