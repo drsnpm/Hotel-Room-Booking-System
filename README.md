@@ -38,7 +38,7 @@ Make sure the following are installed:
 #### 1. Clone the Repository
 ```bash
 git clone https://github.com/drsnpm/hotel-room-booking-system.git
-
+```
 
 
 ### Features for User
