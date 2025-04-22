@@ -53,7 +53,7 @@ Ensure the following are installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/drsnpm/hotel-room-booking-system.git
+   git clone https://github.com/drsnpm/hotel-room-booking-system.git
 ```
 
 ### 2. 📂 Frontend Setup
@@ -83,15 +83,15 @@ git clone https://github.com/drsnpm/hotel-room-booking-system.git
 ```
 3. Update the following properties with your local MySQL credentials
 ```bash
-  spring.datasource.url=jdbc:mysql://localhost:3306/hotel_booking
-spring.datasource.username=your_username
-spring.datasource.password=your_password
-spring.jpa.hibernate.ddl-auto=update
+   spring.datasource.url=jdbc:mysql://localhost:3306/hotel_booking
+   spring.datasource.username=your_username
+   spring.datasource.password=your_password
+   spring.jpa.hibernate.ddl-auto=update
 ````
 
 4. Run the Spring Boot application using your IDE (IntelliJ/Eclipse) or via terminal
 ```bash
-./mvnw spring-boot:run
+   ./mvnw spring-boot:run
 ```
 or
 ```bash
