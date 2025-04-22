@@ -100,7 +100,7 @@ or
 
 ## Snapshots
 ### Home Page
-![Image](https://github.com/user-attachments/assets/1ef3d0d6-14a3-4f09-a2ce-2ed9f53704b4)
+![Image](https://github.com/user-attachments/assets/003bd76e-10b5-475f-99a6-c1956edb9a18)
 
 ### Register Page
 ![Image](https://github.com/user-attachments/assets/9f1132c4-e116-4b7c-8cc2-53668b477c2d)
