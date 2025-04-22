@@ -58,11 +58,11 @@ git clone https://github.com/drsnpm/hotel-room-booking-system.git
 
 ### 2. 📂 Frontend Setup
 1. Navigate to the frontend directory:
-   ```bash
-      cd frontend/Hotel-booking-application
-   ````
+```bash
+   cd frontend/Hotel-booking-application
+````
 
-2. Install the dependencies:
+3. Install the dependencies:
 ```bash
   npm install
 ````
